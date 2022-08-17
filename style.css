@@ -1,0 +1,13 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.heade {
+    border: 10px solid powderblue;
+    border-radius: 15px;
+}
+
+#email {
+    text-align: right;
+    font-style: italic;
+}
